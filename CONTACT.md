@@ -5,5 +5,6 @@ Für Fragen, Anregungen oder Unterstützung im Rahmen von **Tech Evangelism 101*
 - **E-Mail**: info@techevangelism101.org
 - **Slack-Kanal**: [Tech Evangelism Slack](https://slack.techevangelism101.org)
 - **Twitter**: [@TechEvangelism](https://twitter.com/TechEvangelism)
+- **Telefon**: +1 (555) 123-4567
 
 Wir freuen uns auf Ihre Nachrichten!
