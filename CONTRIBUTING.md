@@ -14,4 +14,4 @@ Seien Sie freundlich und respektvoll in Ihren Interaktionen. Dies ist eine unter
 Durch Ihre Beiträge stimmen Sie zu, dass Ihre Einreichungen unter die gleichen Lizenzbedingungen fallen wie das Projekt.
 
 ## Kontakt
-Für weitere Fragen oder Informationen können Sie uns jederzeit unter [kontakt@tech-evangelism.org](mailto:kontakt@tech-evangelism.org) erreichen.
+Für weitere Fragen oder Informationen können Sie uns jederzeit unter [info@tech-evangelism.org](mailto:info@tech-evangelism.org) erreichen.
